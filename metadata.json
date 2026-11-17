@@ -1,0 +1,6 @@
+{
+  "name": "JalakanTech — Rumus 4 Keluaran",
+  "description": "Kalkulator berantai 4 keluaran (AS, COP, KEP, EKOR) dengan tabel Mistik Lama, Mistik Baru, Index, Teysen, MO, dan M9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
